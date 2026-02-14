@@ -1,4 +1,4 @@
-# Next.js Noob Playground 🚀
+# Next.js Noob Playground
 
 Welcome! This repo contains 7 small Next.js apps to help you learn by doing.
 
