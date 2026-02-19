@@ -1,5 +1,29 @@
 # Next.js Noob Playground
 
+> **Part of the [Zero to SaaS](https://zero-to-saas.collabtower.com/) course** — the hands-on program that takes you from zero coding experience to shipping your own SaaS product.
+
+---
+
+## 🚀 Wait — Are You Here by Accident?
+
+If someone shared this repo with you, you just stumbled onto something good.
+
+This playground is one small piece of **Zero to SaaS** — a course designed for people who want to build real software products, not just follow along with tutorials they'll forget in a week.
+
+**Here's what makes it different:**
+- You build real things, from day one
+- No fluff — every lesson moves you closer to a live, working product
+- A community of builders going through it with you
+- By the end, you have a SaaS you can show (or sell)
+
+👉 **[Join the course at zero-to-saas.collabtower.com](https://zero-to-saas.collabtower.com/)**
+
+Already enrolled? Keep scrolling — everything you need is below.
+
+---
+
+## Next.js Noob Playground
+
 Welcome! This repo contains 7 small Next.js apps to help you learn by doing.
 
 ## What is this?
@@ -11,15 +35,15 @@ Each numbered folder is a **complete, working Next.js app**. You can run any fol
 1. Pick any folder (start with `01-hello-next`)
 2. Open your terminal and navigate into that folder:
 ```bash
-   cd 01-hello-next
+cd 01-hello-next
 ```
 3. Install dependencies:
 ```bash
-   npm install
+npm install
 ```
 4. Start the app:
 ```bash
-   npm run dev
+npm run dev
 ```
 5. Open http://localhost:3000 in your browser
 6. **Edit the code and see what happens!**
@@ -48,3 +72,7 @@ Each numbered folder is a **complete, working Next.js app**. You can run any fol
 - A browser
 
 Happy coding! 🎉
+
+---
+
+*This playground is part of [Zero to SaaS](https://zero-to-saas.collabtower.com/) — if you're finding this useful, the full course goes much further.*
