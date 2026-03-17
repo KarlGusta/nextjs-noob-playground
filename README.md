@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Wait — Are You Here by Accident?
+## Wait. Are You Here by Accident?
 
 If someone shared this repo with you, you just stumbled onto something good.
 
